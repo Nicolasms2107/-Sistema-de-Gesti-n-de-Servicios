@@ -1,0 +1,15 @@
+REQUERIMIENTOS
+
+## Requerimientos Funcionales
+1. RF1: El sistema debe permitir registrar solicitudes.
+2. RF2: El sistema debe permitir actualizar estados.
+3. RF3: El sistema debe permitir gestionar prioridades.
+4. RF4: El sistema debe asignar solicitudes a técnicos.
+5. RF5: El sistema debe permitir consultar el estado de solicitudes.
+
+## Requerimientos No Funcionales
+1. RNF1: Usabilidad intuitiva.
+2. RNF2: Respuesta en menos de 3 segundos.
+3. RNF3: Seguridad por roles.
+4. RNF4: Disponibilidad 99%.
+5. RNF5: Escalabilidad para nuevos usuarios.
